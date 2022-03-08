@@ -27,5 +27,5 @@ dependencies {
 # Screenshots
 
 
-<a href="https://github.com/Sizigithubnikiz/Material_Dialogs/blob/master/resource/images/material_alert_dialog.png" target="_blank"><img src="https://github.com/alovuddin-kambarov/personal-ibrary/blob/master/images/image1.png" height="400"></a>  <a href="https://github.com/Sizigithubnikiz/Material_Dialogs/blob/master/resource/images/material_alert_dialog.png" target="_blank"><img src="https://github.com/alovuddin-kambarov/personal-ibrary/blob/master/images/image2.png" height="400"></a>  <a href="https://github.com/Sizigithubnikiz/Material_Dialogs/blob/master/resource/images/material_alert_dialog.png" target="_blank"><img src="https://github.com/alovuddin-kambarov/personal-ibrary/blob/master/images/image3.png" height="400"></a>
+<a href="images" target="_blank"><img src="https://github.com/alovuddin-kambarov/personal-ibrary/blob/master/images/image1.png" height="400"></a>  <a href="png" target="_blank"><img src="https://github.com/alovuddin-kambarov/personal-ibrary/blob/master/images/image2.png" height="400"></a>  <a href="png" target="_blank"><img src="https://github.com/alovuddin-kambarov/personal-ibrary/blob/master/images/image3.png" height="400"></a>
 
