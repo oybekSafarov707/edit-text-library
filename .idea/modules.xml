@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/personal_library.iml" filepath="$PROJECT_DIR$/.idea/modules/personal_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EditTextValidiator/personal_library.EditTextValidiator.iml" filepath="$PROJECT_DIR$/.idea/modules/EditTextValidiator/personal_library.EditTextValidiator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Library/personal_library.Library.iml" filepath="$PROJECT_DIR$/.idea/modules/Library/personal_library.Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/personal_library.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/personal_library.app.iml" />
+    </modules>
+  </component>
+</project>
