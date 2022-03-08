@@ -2,7 +2,7 @@
 
 
 [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
-[![](https://jitpack.io/v/alovuddin-kambarov/personal-ibrary.svg)](https://jitpack.io/#alovuddin-kambarov/personal-ibrary)
+[![](https://jitpack.io/v/oybeksafarov707/edit-text-library.svg)](https://jitpack.io/#oybeksafarov707/edit-text-library)
 
 
 * build.gradle 
