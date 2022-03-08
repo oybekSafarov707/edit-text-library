@@ -19,7 +19,7 @@ allprojects {
 * gradle: 
 ```gradle
 dependencies {
-      implementation 'com.github.alovuddin-kambarov:personal-ibrary:1.0.0'
+     implementation 'com.github.oybeksafarov707:edit-text-library:1.0.0'
 }
 ```
 
